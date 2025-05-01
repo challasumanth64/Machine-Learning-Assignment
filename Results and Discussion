@@ -1,0 +1,15 @@
+Explanation:
+
+Molecular Weight: Affects solubility and how easily the compound passes through cell membranes. Generally, drug-like molecules have molecular weights < 500 Da.
+
+LogP (XLogP): Measures lipophilicity (hydrophobicity). It impacts how well a drug can be absorbed:
+
+LogP < 0 → Hydrophilic (water-loving): better for polar solvents.
+
+LogP > 0 → Lipophilic (fat-loving): better membrane permeability, but may reduce aqueous solubility.
+
+In drug development, this helps choose:
+
+The right solvent (polar or non-polar) during formulation.
+
+A delivery method that ensures better bioavailability and safety.
